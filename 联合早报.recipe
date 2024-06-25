@@ -10,7 +10,7 @@ from calibre.web.feeds.news import BasicNewsRecipe
 
 
 class ZAOBAO(BasicNewsRecipe):
-    title = '联合早报'
+    title = u'\u8054\u5408\u65e9\u62a5\u7f51 zaobao.com'
     __author__ = 'Pu Bo'
     description = 'News from zaobao.com'
     no_stylesheets = True
